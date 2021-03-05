@@ -1,1 +1,3 @@
-# MyRepo-RMBesto es un texto enviado desde la consola
+# MyRepo-RMB
+
+- Esto es un texto enviado desde la consola
